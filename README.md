@@ -6,12 +6,6 @@
 <h3 align="left">👨‍💻 About Me</h3>
 <p align="left">I am a Computer Science student with a deep interest in AI and Data Science. I love building projects that solve real-world problems and continuously improving my coding skills. My goal is to become a top-tier Python developer and contribute to the AI revolution. I am always open to collaborating on interesting projects and sharing knowledge with the community!</p>
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anur8591&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anur8591&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ---
 
